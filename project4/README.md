@@ -2,7 +2,7 @@ Data Communications and Networks
 Project 4
 
 Note: this code requires the Parallel Java 2 (PJ2) library in order to run.   
-The the classpath must be set accordingly before the code can be compiled.  
+The classpath must be set accordingly before the code can be compiled.  
 PJ2 and instructions for its use can be found at this URL: https://www.cs.rit.edu/~ark/pj2.shtml   
 
 Please use the following command lines in order to run these programs:   
