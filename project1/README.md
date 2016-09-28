@@ -1,5 +1,5 @@
 # Data-Communications-and-Networks
-project 1  
+Project 1  
 Spring 2016
 
 
