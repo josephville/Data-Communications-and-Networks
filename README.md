@@ -21,7 +21,7 @@ where
     
 MonteCarloVSmp
     java pj2 MonteCarloVSmp <seed> <lowerV> <upperV> <p> <T> <increment>
-    
+     
 where
 <seed> = Random seed
 <lowerV> = Lower bound of number of vertices  
