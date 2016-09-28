@@ -15,7 +15,6 @@ upperP = Upper bound of edge probability
 T = Number of trials
 increment = number by which to increment the knob
 
-
 Command line: java pj2 MonteCarloVSmp seed lowerV upperV p T increment     
 where 
 seed = Random seed
