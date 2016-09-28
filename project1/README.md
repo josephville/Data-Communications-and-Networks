@@ -3,8 +3,9 @@ Project 1
 Spring 2016
 
 
-Note: this code requires the Parallel Java 2 (PJ2) library in order to run. 
-PJ2 can be found at this URL: https://www.cs.rit.edu/~ark/pj2.shtml
+Note: this code requires the Parallel Java 2 (PJ2) library in order to run.   
+The the classpath must be set accordingly before the code can be compiled.   
+PJ2 and instructions for its use can be found at this URL: https://www.cs.rit.edu/~ark/pj2.shtml
 
 Please use the following command lines to run the appropriate programs:
 
