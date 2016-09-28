@@ -6,7 +6,7 @@ PJ2 can be found at this URL: https://www.cs.rit.edu/~ark/pj2.shtml
 
 Please use the following command lines to run the appropriate programs:
 
-Command line: java pj2 MonteCarloPSmp seed V lowerP upperP T increment
+Command line: java pj2 MonteCarloPSmp seed V lowerP upperP T increment  
 where   
 seed = Random seed   
 V = number of vertices   
@@ -16,8 +16,8 @@ T = Number of trials
 increment = number by which to increment the knob   
 
 Command line: java pj2 MonteCarloVSmp seed lowerV upperV p T increment     
-where 
-seed = Random seed  
+where  
+seed = Random seed   
 lowerV = Lower bound of number of vertices   
 upperV = Upper bound of number of vertices  
 p = Edge probability  
