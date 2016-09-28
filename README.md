@@ -8,7 +8,7 @@ Please use the following command lines to run the appropriate programs:
 
 MonteCarloPSmp
     java pj2 MonteCarloPSmp <seed> <V> <lowerP> <upperP> <T> <increment>
-    
+   
 where
 <seed> = Random seed
 <V> = number of vertices 
