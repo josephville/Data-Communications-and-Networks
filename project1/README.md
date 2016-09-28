@@ -1,6 +1,7 @@
 # Data-Communications-and-Networks
+project 1  
 Spring 2016
-project 1
+
 
 Note: this code requires the Parallel Java 2 (PJ2) library in order to run. 
 PJ2 can be found at this URL: https://www.cs.rit.edu/~ark/pj2.shtml
